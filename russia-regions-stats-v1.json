@@ -3,7 +3,499 @@
   "updatedAt": "",
   "regions": [
     {
+      "region_id": "28173009B41832925814017",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B80457268982215",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B30008444211385",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B24080199016459",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B62882423633207",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B68474107072963",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B30250450380208",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B21416061393121",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B9124867987859",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B49563687485750",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B98838729156012",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B19466568926459",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B11091203162490",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B91429860602147",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B24428243574749",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B75413689166101",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B78872068540735",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B41275184158050",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B51962491984110",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B46612801043871",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B40138449315491",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B57398385788417",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B99237675212372",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B70023447378008",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B95588705134862",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B4400867918714",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B57295377776076",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B55422170414647",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B731487536241",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B31225333555943",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B21210279674314",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B70678486994214",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B83675725671802",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
       "region_id": "28173009B65133456612022",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B71296032393878",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B94971452660823",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B90810482533567",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B5502896824563",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B2185273376578",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B61240048498251",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B19676032168465",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B74836580104791",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B70218250039968",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B3082792446388",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B18259284234443",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B7235812138525",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B16533507618293",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B27844369294009",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B55503329301013",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B76603557910928",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B3932420572168",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B59972517059449",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B90469334921421",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B46831765844996",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B86476767341172",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B96976580001980",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B16834140201491",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B46424166303156",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B69714658607289",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B8796515134902",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B48058606062294",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B36269087375583",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B25497318303482",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B21415173479872",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B31773571872137",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B89423349656391",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B92397886288731",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B50284711669511",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B46738131000378",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B26811060113320",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B42082792489997",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B55293521919285",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B63182593849600",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B77673499236961",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B34434912986355",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B42697300509311",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B91128253561055",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B90356867269748",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B96664025860642",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B2687808218031",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B47279883421777",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B38848907206629",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "region_id": "28173009B29209288820923",
       "lawyers": 34,
       "wonCases": 340,
       "updatedAt": "2026-10-09"
