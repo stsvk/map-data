@@ -1,0 +1,12 @@
+{
+  "datasetVersion": "russia-regions-v1",
+  "updatedAt": "",
+  "regions": [
+    {
+      "region_id": "28173009B65133456612022",
+      "lawyers": 34,
+      "wonCases": 340,
+      "updatedAt": "2026-10-09"
+    }
+  ]
+}
